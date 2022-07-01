@@ -13,7 +13,7 @@
 // const result = add(13);
 
 // if there is no object property is there than it will show as undefined
-// const lover = {name: 'murad', phone: 45387};
+// const lover = {name: 'water', phone: 45387};
 // console.log(lover.gf);
 
 let fun = undefined;
